@@ -10,6 +10,6 @@ This is a reading note to document and highlight new knowledge.
 | class       | Link               |
 | ----------- | ------------------ |
 | class1a     | [1a](./class1a.md) |
-| class1b     | [1a](./class1b.md) |
+| class1b     | [1b](./class1b.md) |
 
 ## Things I want to know more about
