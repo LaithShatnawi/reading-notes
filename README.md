@@ -7,9 +7,12 @@ This is a reading note to document and highlight new knowledge.
 
 ## Table of contents
 
-| class       | Link               |
-| ----------- | ------------------ |
-| class1a     | [1a](./class1a.md) |
-| class1b     | [1b](./class1b.md) |
+| class                         | Link                                             |
+| ----------------------------- | ------------------------------------------------ |
+| class1a                       | [1a](./class1a.md)                               |
+| class1b                       | [1b](./class1b.md)                               |
+| DataStructures&Algorithms     | [DSA](./Data%20Structures%20and%20Algorithms.md) |
 
 ## Things I want to know more about
+
+1.Hash Tables and Hash functions
