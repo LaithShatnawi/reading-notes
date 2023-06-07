@@ -12,6 +12,7 @@ This is a reading note to document and highlight new knowledge.
 | class1a                       | [1a](./class1a.md)                               |
 | class1b                       | [1b](./class1b.md)                               |
 | DataStructures&Algorithms     | [DSA](./Data%20Structures%20and%20Algorithms.md) |
+| class2                        | [class2](./class2.md)                            |
 
 ## Things I want to know more about
 
