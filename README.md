@@ -18,4 +18,5 @@ This is a reading note to document and highlight new knowledge.
 ## Things I want to know more about
 
 1.Hash Tables and Hash functions
+
 2.Linked list (tail,size)
