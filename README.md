@@ -14,6 +14,7 @@ This is a reading note to document and highlight new knowledge.
 | Data Structures & Algorithms  | [DSA](./Data%20Structures%20and%20Algorithms.md)         |
 | class2                        | [class2](./class2.md)                                    |
 | big O & Linked List           | [BigO&LinkedList](./Big%20O%20%26%20Linked%20Lists.md)   |
+| class3                        | [class3](./class3.md)                                    |
 
 ## Things I want to know more about
 
