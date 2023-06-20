@@ -15,7 +15,8 @@ This is a reading note to document and highlight new knowledge.
 | class2                        | [class2](./class2.md)                                    |
 | big O & Linked List           | [BigO&LinkedList](./Big%20O%20%26%20Linked%20Lists.md)   |
 | class3                        | [class3](./class3.md)                                    |
-| class4                        | [class4](./class4.md)                                    |
+| class6                        | [class6](./class6.md)                                    |
+| class7                        | [class7](./class7.md)                                    |
 
 ## Things I want to know more about
 
