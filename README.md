@@ -20,6 +20,7 @@ This is a reading note to document and highlight new knowledge.
 | class8                        | [class8](./class8.md)                                    |
 | class9                        | [class9](./class9.md)                                    |
 | stack and queue               | [stack&queue](./stack%20and%20queue.md)                  |
+| class11                       | [class11](./class11.md)                                  |
 
 ## Things I want to know more about
 
