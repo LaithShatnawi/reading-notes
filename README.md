@@ -22,6 +22,7 @@ This is a reading note to document and highlight new knowledge.
 | stack and queue               | [stack&queue](./stack%20and%20queue.md)                  |
 | class11                       | [class11](./class11.md)                                  |
 | class12                       | [class12](./class12.md)                                  |
+| class13                       | [class13](./class13.md)                                  |
 
 ## Things I want to know more about
 
