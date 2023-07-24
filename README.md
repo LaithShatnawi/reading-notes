@@ -27,6 +27,7 @@ This is a reading note to document and highlight new knowledge.
 | class15                       | [class15](./class15.md)                                  |
 | class16                       | [class16](./class16.md)                                  |
 | class17                       | [class17](./class17.md)                                  |
+| class18                       | [class18](./class18.md)                                  |
 | class19                       | [class19](./class19.md)                                  |
 
 ## Things I want to know more about
