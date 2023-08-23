@@ -33,6 +33,7 @@ This is a reading note to document and highlight new knowledge.
 | class27                       | [class27](./class27.md)                                  |
 | class28                       | [class28](./class28.md)                                  |
 | class29                       | [class29](./class29.md)                                  |
+| Hash Tables                   | [HashTables](./Hash%20Tables.md)                         |
 
 ## Things I want to know more about
 
