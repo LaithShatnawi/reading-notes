@@ -34,6 +34,7 @@ This is a reading note to document and highlight new knowledge.
 | class28                       | [class28](./class28.md)                                  |
 | class29                       | [class29](./class29.md)                                  |
 | Hash Tables                   | [HashTables](./Hash%20Tables.md)                         |
+| class31                       | [class31](./class31.md)                                  |
 
 ## Things I want to know more about
 
