@@ -38,6 +38,7 @@ This is a reading note to document and highlight new knowledge.
 | class32                       | [class32](./class32.md)                                  |
 | class33                       | [class33](./class33.md)                                  |
 | class34                       | [class34](./class34.md)                                  |
+| Graphs                        | [Graphs](./Graphs.md)                                    |
 
 ## Things I want to know more about
 
