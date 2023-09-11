@@ -40,6 +40,7 @@ This is a reading note to document and highlight new knowledge.
 | class34                       | [class34](./class34.md)                                  |
 | Graphs                        | [Graphs](./Graphs.md)                                    |
 | class36                       | [class36](./class36.md)                                  |
+| class37                       | [class37](./class37.md)                                  |
 
 ## Things I want to know more about
 
