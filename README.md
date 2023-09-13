@@ -41,6 +41,7 @@ This is a reading note to document and highlight new knowledge.
 | Graphs                        | [Graphs](./Graphs.md)                                    |
 | class36                       | [class36](./class36.md)                                  |
 | class37                       | [class37](./class37.md)                                  |
+| class38                       | [class38](./class38.md)                                  |
 
 ## Things I want to know more about
 
