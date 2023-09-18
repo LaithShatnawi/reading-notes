@@ -42,6 +42,7 @@ This is a reading note to document and highlight new knowledge.
 | class36                       | [class36](./class36.md)                                  |
 | class37                       | [class37](./class37.md)                                  |
 | class38                       | [class38](./class38.md)                                  |
+| class39                       | [class39](./class39.md)                                  |
 
 ## Things I want to know more about
 
